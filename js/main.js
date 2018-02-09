@@ -1,1 +1,1 @@
-Add type to js
+Add type to js stressful
